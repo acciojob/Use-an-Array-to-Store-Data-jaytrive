@@ -1,4 +1,4 @@
-var yourArray=[]
+let yourArray=[]
 yourArray.push("jay")
 yourArray.push(25)
 yourArray.push(true)
